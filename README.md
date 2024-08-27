@@ -1,6 +1,6 @@
 # Hello, I'm Kristine
 
-<a href="www.linkedin.com/in/kristine-liang-086509221" /></a>
+<a href="www.linkedin.com/in/kristine-liang-086509221"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an aspiring cybersecurity professional committed to pivot into the digital security space. As we are moving away from the Information Age and into what some may consider the "Age of Intelligence" or the "Age of Surveillance", I am captivated by the role data plays in our lives and am dedicated to safeguarding information and making a positive impact. 
 
