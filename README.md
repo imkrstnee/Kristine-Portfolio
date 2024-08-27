@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SSL Certificates and Custom WAF using Azure         | <a href="https://github.com/imkrstnee/Web-App-Protection-Using-Microsoft-Azure">Detection Lab</a>|Protection Using Microsoft Azure</a>|
+| SSL Certificates and Custom WAF using Azure         | <a href="https://github.com/imkrstnee/Web-App-Protection-Using-Microsoft-Azure">Web App Protection Using Microsoft Azure </a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
