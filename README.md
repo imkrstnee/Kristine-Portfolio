@@ -2,17 +2,14 @@
 
 <a href="www.linkedin.com/in/kristine-liang-086509221"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am an aspiring cybersecurity professional committed to pivot into the digital security space. As we are moving away from the Information Age and into what some may consider the "Age of Intelligence" or the "Age of Surveillance", I am captivated by the role data plays in our lives and am dedicated to safeguarding information and making a positive impact. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Although my journey till now has not been in the technological space, my experience working with people allowed me to hone transferrable life skills such as problem solving, attention to detail, and pattern recognition. I am now focused on joining a Security Operations Center (SOC) as a Security Analyst, where I aim to leverage these skills and make valuable contributions. 
+
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
